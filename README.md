@@ -8,6 +8,7 @@ Please use the [Environment Setup File](https://github.com/FubarFast/DevTraining
 This will install:
 - [Chocolatey Package Manager](https://chocolatey.org/)
 - [Git](https://git-scm.com/)
+- [PoshGit](https://github.com/dahlbyk/posh-git)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [VirtualBox](https://www.virtualbox.org/)
 - [Vagrant](https://www.vagrantup.com/)
